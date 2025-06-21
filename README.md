@@ -54,15 +54,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TurkeyMaster&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TurkeyMaster&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=%F0%9F%93%8A%20GitHub%20Stats:" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=TurkeyMaster&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/5jj2i1tff2yd1mamd0csxv26g">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5jj2i1tff2yd1mamd0csxv26g&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5jj2i1tff2yd1mamd0csxv26g&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
