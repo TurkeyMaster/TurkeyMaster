@@ -9,8 +9,16 @@ Games journalist, C++ developer and reverse engineer. I run a gaming news site b
 - 🔍 **Security research on game clients, launchers and updaters**, written up at **[turkeymaster.github.io](https://turkeymaster.github.io/)**
 - 🚀 **Published [TIDEBREAK](https://store.steampowered.com/app/1864940/TIDEBREAK/) on Steam** (Oct 2026), TheBigBois' first publishing credit
 - 🛠️ **Built [LaunchRivals](https://launchrivals.com/)**, a Steam launch-planning tool for indie developers
+- 💳 **Build and run web platforms**, including payment, rewards and marketplace systems
+- 🎓 IT & cybersecurity background: A.A.S. in Cyber Operations, B.A. from CSU Chico, ~18 certifications
 
 <br clear="both">
+
+## ⚡ Currently
+
+- Hunting for bugs in game launchers and their update and add-on systems
+- Working through the [Hacker101](https://www.hacker101.com/) CTF
+- Following up on [Playnite #4417](https://github.com/JosefNemec/Playnite/issues/4417) as the minisign verification lands
 
 ## 🔐 Security research
 
